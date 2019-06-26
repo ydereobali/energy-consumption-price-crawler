@@ -2,7 +2,7 @@
 # Title:  ubiqum module 3 task 2 crawler github
 # Author: Yigit Dereobali
 # Description: Crawl day ahead hourly power prices from EPEX power exchange
-# and save them in an CSV file.
+# and save them in a CSV file.
 # Date: 21.06.2019
 # Version: 1.0
 ##########################################################################
